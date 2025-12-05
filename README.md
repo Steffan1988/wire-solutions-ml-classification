@@ -30,8 +30,9 @@ De notebook bevat onder andere:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+```
 
-## Privacy & datagebruik
+# Privacy & datagebruik
 
 De dataset (incidentdata_ml.csv) bevat geen persoonsgegevens en is geanonimiseerd.
 Alle analyses zijn uitsluitend gebruikt voor educatieve doeleinden binnen de leerlijn Data Science.
@@ -39,4 +40,5 @@ Alle analyses zijn uitsluitend gebruikt voor educatieve doeleinden binnen de lee
 # Auteur
 
 Steffan Boer – Bootcamp Data Engineer – 2025
+
 
